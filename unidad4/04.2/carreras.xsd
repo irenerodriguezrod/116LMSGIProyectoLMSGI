@@ -21,7 +21,7 @@
         <xs:element name="plan" type="xs:gYear"/>
         <xs:element name="creditos" type="xs:positiveInteger"/>
         <xs:element name="centro" type="xs:string"/>
-        <xs:element name="subdirector" type="xs:string" minOccurs="0">
+        <xs:element name="subdirector" type="xs:string" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute name="id" type="xs:ID" use="required"/>
 </xs:complexType>
