@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE universidad SYSTEM "04.dtd">
+<!DOCTYPE universidad SYSTEM "04.2.dtd">
 <universidad>
 
     <nombre year="1964">Universidad de Victoria</nombre>
@@ -11,21 +11,21 @@
     <carreras>
 
         <carrera id="c01">
-            <nombre_carrera>I.T. Inform?tica</nombre_carrera>
+            <nombre>I.T. Inform?tica</nombre>
             <plan>2003</plan>
             <creditos>250</creditos>
             <centro>Escuela de Inform?tica</centro>
         </carrera>
 
         <carrera id="c02">
-            <nombre_carrera>Dipl. Empresariales</nombre_carrera>
+            <nombre>Dipl. Empresariales</nombre>
             <plan>2001</plan>
             <creditos>275</creditos>
             <centro>Facultad de Ciencias Sociales</centro>
         </carrera>
 
         <carrera id="c03">
-            <nombre_carrera>Dipl. Relaciones Laborales</nombre_carrera>
+            <nombre>Dipl. Relaciones Laborales</nombre>
             <plan>2001</plan>
             <creditos>280</creditos>
             <centro>Facultad de Ciencias Sociales</centro>
@@ -33,21 +33,21 @@
         </carrera>
 
         <carrera id="c04">
-            <nombre_carrera>Lic. Quimica</nombre_carrera>
+            <nombre>Lic. Quimica</nombre>
             <plan>2003</plan>
             <creditos>175</creditos>
             <centro>Facultad de Ciencias Experimentales</centro>
         </carrera>
 
         <carrera id="c05">
-            <nombre_carrera>Lic. Biolog?a</nombre_carrera>
+            <nombre>Lic. Biolog?a</nombre>
             <plan>2001</plan>
             <creditos>175</creditos>
             <centro>Facultad de Ciencias Experimentales</centro>
         </carrera>
 
         <carrera id="c06">
-            <nombre_carrera>Lic. Humanidades</nombre_carrera>
+            <nombre>Lic. Humanidades</nombre>
             <plan>1980</plan>
             <creditos>475</creditos>
             <centro>Facultad de Humanidades</centro>
