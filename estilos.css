@@ -10,20 +10,20 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* xa q el padding no afecte al tamaño de los elementos*/
+    box-sizing: border-box;    /* xa q el padding no afecte al tamaño de los elementos*/
 }
 
 header {
     background-color: var(--color2);
     padding: 20px;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--color5);
-    width: 100%; /* xa q ocupe todo el ancho */
+    width: 100%;    /* xa q ocupe todo el ancho */
 }
 
-header h2 {
-    margin: 0; /* eliminar margen */
+header h1 {
+    margin: 10px;    /* margen */
 }
 
 nav {
@@ -31,7 +31,7 @@ nav {
     justify-content: center;
     background-color: var(--color2);
     position: sticky;
-    top: 0;
+    margin-top: 0;    /*margen superior*/
     margin-left: auto;
     margin-right: auto;
     z-index: 1000;
@@ -39,8 +39,8 @@ nav {
 }
 
 nav ul {
-    list-style-type: none; /* lista sin viñetas */
-    display: flex; /* lista en linea */
+    list-style-type: none;    /* lista sin viñetas */
+    display: flex;   /* lista en linea */
     margin: 0;
     padding: 0;
 }
@@ -54,13 +54,13 @@ nav ul li a {
     color: var(--color5);
     text-decoration: none;
     font-size: 1rem;
-    padding: 10px 15px; /* espaciado interno */
-    border-radius: 5px; /* redondear esquinas */
-    transition: all 0.3s ease; /* animacion suave */
+    padding: 10px 15px;    /* espaciado interno */
+    border-radius: 5px;    /* redondear esquinas */
+    transition: all 0.3s ease;    /* animacion suave */
 }
 
 nav ul li a:hover {
-    color: var(--color4); /* cambia de color */
+    color: var(--color4);    /* cambia de color a rosa claro */
     text-decoration: underline;
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 h2 {
-    margin: 0; /* elimina el margen */
+    margin: 0;    /* elimina el margen */
 }
 
 section {
@@ -90,8 +90,8 @@ section {
     padding: 20px;
     border-radius: 10px;
     margin: 20px auto;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* sombreado */
-    width: 90%; /* ancho */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);    /* sombreado */
+    width: 90%;    /* ancho ocupando determinado porcentaje */
 }
 
 article {
@@ -110,13 +110,14 @@ article a {
     color: var(--color5);
     text-decoration: none;
     font-weight: bold;
+    margin-left: auto;
 }
 
 article:hover {
     background-color: var(--color2);
     text-decoration: underline;
     color: var(--color3);
-    transform: scale(1.05); /* zoom al pasar por encima*/
+    transform: scale(1.05);    /* zoom al pasar por encima*/
 }
 
 h3 {
@@ -127,20 +128,47 @@ h3 {
 }
 
 footer {
-    background-color: var(--color2);
-    padding: 10px;
-    text-align: center;
-    color: var(--color5);
-    font-size: 1rem;
-    margin-top: 10px; /* espaciado para separar el contenido */
+    display: flex;  /* flexbox para organizar los elementos */
+    justify-content: space-between;    /* separar los elementos principales */
+    align-items: center;    /* centrar verticalmente */
+    background-color: var(--color2);    /* color fondo del footer */
+    padding: 10px;    /* espaciado interno */
+    color: var(--color5);    /* color del texto */
+    font-size: 1rem;    /* tamaño del texto */
+    margin-top: 10px;    /* margen superior */
+    padding-left: 30em;    /* margen izquierdo */
+    padding-right: 10em;    /* margen derecho */
 }
 
 footer a {
-    color: var(--color5);
-    text-decoration: none;
-    font-weight: bold;
+    color: var(--color5);    /* color del enlace */
+    text-decoration: none;    /* eliminar subrayado */
+    font-weight: bold;    /* modificar texto a negrita */
 }
 
 footer a:hover {
-    color: var(--color4);
+    color: var(--color4);    /* cambiar color al pasar el mouse */
+}
+
+#validador-w3c {
+    display: flex;    /* organizar elementos */
+    align-items: center;    /* centrar la imagen */
+    margin-right: auto;    /* alinear a la izquierda */
+    gap: 3px;    /* reducir el espacio entre la imagen y el contenido cercano */
+}
+
+#validador-w3c img {
+    display: block;    /* asegura que no tenga espacios adicionales */
+    margin: 0;    /* borrar márgenes */
+    width: 88px;    /* tamaño imagen */
+    height: auto;    /* mantener proporciones fijas para evitar distorsionar la imagen*/
+}
+
+footer div {
+    text-align: left;    /* texto a la izq */
+}
+
+footer p {
+    margin: 10px;    /* añadir márgenes al texto */
+    line-height: 1.5;    /* espaciado entre lineas */
 }
