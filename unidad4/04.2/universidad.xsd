@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.com/universidad"
     xmlns="http://www.example.com/universidad"
-    xmlns:alumno="http://www.example.com/alumnos"
-    xmlns:asignaturas="http://www.example.com/asignaturas"
-    xmlns:carreras="http://www.example.com/carreras" elementFormDefault="qualified">
+    xmlns:alu="http://www.example.com/alumnos"
+    xmlns:asi="http://www.example.com/asignaturas"
+    xmlns:car="http://www.example.com/carreras" elementFormDefault="qualified">
 
-    <xs:import namespace="http://www.example.com/alumnos" schemaLocation="alumno.xsd"/>
+    <xs:import namespace="http://www.example.com/alumnos" schemaLocation="alumnos.xsd"/>
     <xs:import namespace="http://www.example.com/asignaturas" schemaLocation="asignaturas.xsd"/>
     <xs:import namespace="http://www.example.com/carreras" schemaLocation="carreras.xsd"/>
 
@@ -33,6 +33,11 @@
                 </xs:element>
                 <xs:element name="fechaconstruccion" type="xs:date"/>
                 <xs:element name="pais" type="xs:string"/>
+
+                <!-- Otros elementos a los que hace referencia-->
+                <xs:element ref="car:carreras"/>
+                <xs:element ref="asi:asignaturas"/>
+                <xs:element ref="alu:alumnos"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

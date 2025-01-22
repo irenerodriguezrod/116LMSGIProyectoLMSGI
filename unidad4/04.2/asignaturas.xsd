@@ -17,8 +17,8 @@
 <xs:complexType name="tipoAsignatura">
     <xs:sequence>
         <xs:element name="nombre" type="xs:string"/>
-        <xs:element name="creditos_teoricos" type="xs:positiveInteger"/>
-        <xs:element name="creditos_practicos" type="xs:positiveInteger"/>
+        <xs:element name="creditos_teoricos" type="xs:float"/>
+        <xs:element name="creditos_practicos" type="xs:float"/>
         <xs:element name="trimestre" type="xs:positiveInteger"/>
     </xs:sequence>
     <!-- Declaracion atributos del elemento de tipo complejo-->
