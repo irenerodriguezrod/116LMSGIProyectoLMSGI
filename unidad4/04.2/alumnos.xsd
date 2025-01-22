@@ -18,7 +18,7 @@
     <xs:sequence>
         <xs:element name="apellido1" type="xs:string"/>
         <xs:element name="apellido2" type="xs:string"/>
-        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="nombre_alumno" type="xs:string"/>
         <xs:element name="sexo" type="tipoSexo"/>
         <xs:element name="estudios" type="tipoEstudios" minOccurs="0"/>
     </xs:sequence>
