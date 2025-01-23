@@ -79,8 +79,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="4">Tema 4. XML. DTD. Schema XML</td>
-      <td rowspan="4">Trabajos sobre XML, DTD y Schema XML</td>
+      <td rowspan="6">Tema 4. XML. DTD. Schema XML</td>
+      <td rowspan="6">Trabajos sobre XML, DTD y Schema XML</td>
       <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
       <td>Creación de un esquema XML de un correo electrónico.</td>
     </tr>
@@ -94,6 +94,14 @@
     </tr>
     <tr>
       <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/03">Práctica 3. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04">Práctica 4. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td>Universidad XML y DTD</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04.2">Práctica 4.2. Universidad (XML, DTD y CSS)</a></td>
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
