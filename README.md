@@ -129,6 +129,35 @@
 
 <br>
 
+<div>
+  <h2>
+    <img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif" alt="Signo exclamación e interrogación" width="20">
+  Otros contenidos
+  </h2>
+  <p>Aquí están otros contenidos relacionados con el repositorio, pero que se han incluido posteriormente a la creación de este.</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Examen</th>
+        <th>Explicación del contenido</th>
+        <th>Carpeta</th>
+        <th>Fecha realización</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Examen 1</td>
+        <td>Página de los diferentes volcanes del mundo</td>
+        <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
+        <td>30 de octubre de 2024</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+
 <div align="center">
     <img src="https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif" alt="Divider de corazones y estrellas rosas" width="350">
 </div>
