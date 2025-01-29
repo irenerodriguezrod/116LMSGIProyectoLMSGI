@@ -79,8 +79,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="4">Tema 4. XML. DTD. Schema XML</td>
-      <td rowspan="4">Trabajos sobre XML, DTD y Schema XML</td>
+      <td rowspan="6">Tema 4. XML. DTD. Schema XML</td>
+      <td rowspan="6">Trabajos sobre XML, DTD y Schema XML</td>
       <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
       <td>Creación de un esquema XML de un correo electrónico.</td>
     </tr>
@@ -94,6 +94,14 @@
     </tr>
     <tr>
       <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/03">Práctica 3. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04">Práctica 4. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td>Universidad XML y DTD</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04.2">Práctica 4.2. Universidad (XML, DTD y CSS)</a></td>
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
@@ -117,6 +125,35 @@
   </tbody>
 </table>
 
+</div>
+
+<br>
+
+<div>
+  <h2>
+    <img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif" alt="Signo exclamación e interrogación" width="20">
+  Otros contenidos
+  </h2>
+  <p>Aquí están otros contenidos relacionados con el repositorio, pero que se han incluido posteriormente a la creación de este.</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Examen</th>
+        <th>Explicación del contenido</th>
+        <th>Carpeta</th>
+        <th>Fecha realización</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Examen 1</td>
+        <td>Página de los diferentes volcanes del mundo</td>
+        <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
+        <td>30 de octubre de 2024</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <br>
