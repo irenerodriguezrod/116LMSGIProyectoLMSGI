@@ -147,13 +147,13 @@
     </thead>
     <tbody>
       <tr>
-        <td>Examen 1</td>
+        <td>01</td>
         <td>Página de los diferentes volcanes del mundo</td>
         <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
         <td>30 de octubre de 2024</td>
       </tr>
       <tr>
-        <td>Examen 2</td>
+        <td>02</td>
         <td>Web para los fans de <i>Juego de tronos</i></td>
         <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examenes/02">Los juegos del hambre</td>
         <td>16 de diciembre de 2024</td>
@@ -180,5 +180,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 16 de enero de 2025</i></p>
+    <p>Última modificación:<i> 02 de febrero de 2025</i></p>
 </div>
