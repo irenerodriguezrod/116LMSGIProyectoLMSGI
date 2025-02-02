@@ -43,7 +43,7 @@
     <tr>
       <td rowspan="1">Tema 1. Introducción a lenguajes de marcas</td>
       <td rowspan="1">Mapa conceptual sobre lenguajes de marcas</td>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/blob/main/116LMSGIProyectoLMSGI/unidad1/UD1_MapaConceptual.pdf">Práctica 1. Mapa conceptual</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad1">Práctica 1. Mapa conceptual</a></td>
       <td>Creación de un mapa conceptual sobre los diferentes tipos de lenguajes de marcas que existen.</td>
     </tr>
     <tr>
@@ -105,9 +105,9 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td>Tema 5. Conversión y adaptación de documentos</td>
-      <td>-</td>
-      <td>-</td>
+      <td rowspan="1">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="1">Trabajos de XPath y XSLT</td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
       <td>-</td>
     </tr>
     <tr>
@@ -151,6 +151,12 @@
         <td>Página de los diferentes volcanes del mundo</td>
         <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
         <td>30 de octubre de 2024</td>
+      </tr>
+      <tr>
+        <td>Examen 2</td>
+        <td>Web para los fans de <i>Juego de tronos</i></td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examenes/02">Los juegos del hambre</td>
+        <td>16 de diciembre de 2024</td>
       </tr>
     </tbody>
   </table>
