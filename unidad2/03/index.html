@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
 <!--
-     Autor: Irene Rodríguez Rodríguez
+    Autor: Irene Rodríguez Rodríguez
     Fecha de creación: 11/10/2024
     Fecha de modificación: 18/10/2024
-     Descripción: Unidad 2, actividad 3. Creación de un formulario con la temática de animales domésticos
+    Descripción: Unidad 2, actividad 3. Creación de un formulario con la temática de animales domésticos
 -->
 
 <html lang="es">
@@ -31,21 +31,9 @@
     <title>UD2. 03 Irene Rodríguez Rodríguez</title>
     <!--Favicon de la web-->
     <link rel="shortcut icon" type="images/png" href="../../webroot/media/favicon/favicon.ico" >
-    <link href="../../css/estilos.css" rel="stylesheet" type="text/css">
+    <!--Hoja de estilos-->
+    <link href="estilos/estilos.css" rel="stylesheet" type="text/css">
 
-    <!--Estilos que se han aplicado al formulario; en este caso al h1, h2 y el body -->
-    <style>
-        h1,
-        h2 {
-            text-align: center;
-        }
-
-        body {
-            background-color: aliceblue;
-            margin-left: 25px;
-
-        }
-    </style>
 </head>
 
 
@@ -117,22 +105,27 @@
             <br>
 
             <label>¿Qué tipo de animal es tu mascota?</label><br>
-            <!--Input del tipo radio con imágen-->
-            <input type="radio" id="perro" name="tipo_animal" value="perro" checked>
-            <label for="perro">Perro</label>
-            <br>
-            <img src="images/perro.jpeg" alt="Imagen de un grupo de perros" width="100" height="100"><br>
-
-            <input type="radio" id="gato" name="tipo_animal" value="gato">
-            <label for="gato">Gato</label>
-            <br>
-            <img src="images/gato.jpeg" alt="Imagen de un grupo de gatos" width="100" height="100"><br>
-
-            <input type="radio" id="otro" name="tipo_animal" value="otro">
-            <label for="otro">Otro</label>
-            <br>
-            <img src="images/otro.jpeg" alt="Imagen de un grupo de animales" width="100" height="100"><br>
-
+            
+            <!-- Contenedor flex para las imágenes -->
+            <div class="imagenes-flex">
+                <div>
+                    <input type="radio" id="perro" name="tipo_animal" value="perro" checked>
+                    <label for="perro">Perro</label><br>
+                    <img src="images/perro.jpeg" alt="Imagen de un grupo de perros" width="100" height="100"><br>
+                </div>
+            
+                <div>
+                    <input type="radio" id="gato" name="tipo_animal" value="gato">
+                    <label for="gato">Gato</label><br>
+                    <img src="images/gato.jpeg" alt="Imagen de un grupo de gatos" width="100" height="100"><br>
+                </div>
+            
+                <div>
+                    <input type="radio" id="otro" name="tipo_animal" value="otro">
+                    <label for="otro">Otro</label><br>
+                    <img src="images/otro.jpeg" alt="Imagen de un grupo de animales" width="100" height="100"><br>
+                </div>
+            </div>
             <br>
             <!--Input del tipo list con datalist-->
             <label for="raza">Raza</label><br>
@@ -182,6 +175,7 @@
 
             <!--Input del tipo checkbox-->
             <label>Comida favorita de tu mascota:</label><br>
+            <div class="comida-flex">
             <input type="checkbox" id="pienso" name="comida_favorita" value="pienso" checked>
             <label for="pienso">Pienso</label><br>
             <input type="checkbox" id="galletas" name="comida_favorita" value="galletas">
@@ -194,7 +188,7 @@
                 placeholder="Escribe cuál es en caso de no corresponderse con los mencionados anteriormente..."
                 required></textarea>
             <br>
-
+            </div>
 
             <br>
 
@@ -225,8 +219,10 @@
 
         </div>
         <!-- Botón de enviar y reiniciar -->
+         <div class="botones-flex">
         <input type="image" src="images/enviar.png" alt="Imagen botón enviar" width="100" height="100">
         <input type="image" src="images/reiniciar.png" alt="Imagen boton reiniciar" width="100" height="100">
+        </div>
     </form>
     <br>
 
