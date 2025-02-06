@@ -8,14 +8,14 @@
 }
 
 body {
-    background-color: var(--color5);
+    background-color: var(--color4);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: var(--color3);
+    background-color: var(--color2);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -72,11 +72,19 @@ input[type="color"] {
     cursor: pointer;
 }
 
-.imagenes-flex, .botones-flex, .imagenes-flex {
+.imagenes-flex, .imagenes-flex {
     display: flex;
     /* Utiliza flexbox */
     gap: 20px;
     /* Espacio entre las imágenes */
+}
+
+.botones-flex {
+    display: flex;
+    width: 175px;
+    justify-content: center;
+    align-items: center;
+    margin-left: +39vh;
 }
 
 .imagenes-flex, .imagenes-flex div {
