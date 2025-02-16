@@ -105,10 +105,22 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td rowspan="1">Tema 5. Conversión y adaptación de documentos</td>
-      <td rowspan="1">Trabajos de XPath y XSLT</td>
+      <td rowspan="4">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="4">Trabajos de XPath y XSLT</td>
       <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
-      <td>-</td>
+      <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/02">Práctica 2. Información de alumnos (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Creación del documento XSL a partir de la información de los archivos XML para convertirlos en un HTML a la hora de ejecutar el XSL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/03">Práctica 3. Tickets (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML. También se ha generado un documento .CSS para dar estilos al HTML</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/04">Práctica 4. Test (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML, se ha generado a partir del bucle <i>for-each</i>. También se ha generado un documento .CSS para dar estilos al HTML.</td>
     </tr>
     <tr>
       <td>Tema 6. Almacenamiento de la información</td>
@@ -180,5 +192,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 02 de febrero de 2025</i></p>
+    <p>Última modificación:<i> 16 de febrero de 2025</i></p>
 </div>
