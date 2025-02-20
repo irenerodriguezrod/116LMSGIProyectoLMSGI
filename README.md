@@ -105,8 +105,8 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td rowspan="4">Tema 5. Conversión y adaptación de documentos</td>
-      <td rowspan="4">Trabajos de XPath y XSLT</td>
+      <td rowspan="7">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="7">Trabajos de XPath y XSLT</td>
       <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
       <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
     </tr>
