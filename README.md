@@ -43,7 +43,7 @@
     <tr>
       <td rowspan="1">Tema 1. Introducción a lenguajes de marcas</td>
       <td rowspan="1">Mapa conceptual sobre lenguajes de marcas</td>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/blob/main/116LMSGIProyectoLMSGI/unidad1/UD1_MapaConceptual.pdf">Práctica 1. Mapa conceptual</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad1">Práctica 1. Mapa conceptual</a></td>
       <td>Creación de un mapa conceptual sobre los diferentes tipos de lenguajes de marcas que existen.</td>
     </tr>
     <tr>
@@ -79,8 +79,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="4">Tema 4. XML. DTD. Schema XML</td>
-      <td rowspan="4">Trabajos sobre XML, DTD y Schema XML</td>
+      <td rowspan="6">Tema 4. XML. DTD. Schema XML</td>
+      <td rowspan="6">Trabajos sobre XML, DTD y Schema XML</td>
       <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
       <td>Creación de un esquema XML de un correo electrónico.</td>
     </tr>
@@ -97,10 +97,42 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td>Tema 5. Conversión y adaptación de documentos</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04">Práctica 4. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td>Universidad XML y DTD</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04.2">Práctica 4.2. Universidad (XML, DTD y CSS)</a></td>
+      <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="7">Trabajos de XPath y XSLT</td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
+      <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/02">Práctica 2. Información de alumnos (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Creación del documento XSL a partir de la información de los archivos XML para convertirlos en un HTML a la hora de ejecutar el XSL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/03">Práctica 3. Tickets (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML. También se ha generado un documento .CSS para dar estilos al HTML</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/04">Práctica 4. Test (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML, se ha generado a partir del bucle <i>for-each</i>. También se ha generado un documento .CSS para dar estilos al HTML.</td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/05">Práctica 5. Usuarios (XML, XSL y creación del XML ejecutando el XSL)</a></td>
+      <td>Diseño de un documento XSL cuya salida es un XSL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/06">Práctica 6. Redes (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/07">Práctica 7. Predicción del tiempo (XMD, XSL, DTD y creación del HTML ejecutando el XSL. También estilos con CSS)</a></td>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i>
     </tr>
     <tr>
       <td>Tema 6. Almacenamiento de la información</td>
@@ -121,6 +153,41 @@
 
 <br>
 
+<div>
+  <h2>
+    <img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif" alt="Signo exclamación e interrogación" width="20">
+  Otros contenidos
+  </h2>
+  <p>Aquí están otros contenidos relacionados con el repositorio, pero que se han incluido posteriormente a la creación de este.</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Examen</th>
+        <th>Explicación del contenido</th>
+        <th>Carpeta</th>
+        <th>Fecha realización</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>01</td>
+        <td>Página de los diferentes volcanes del mundo</td>
+        <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
+        <td>30 de octubre de 2024</td>
+      </tr>
+      <tr>
+        <td>02</td>
+        <td>Web para los fans de <i>Juego de tronos</i></td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examenes/02">Los juegos del hambre</td>
+        <td>16 de diciembre de 2024</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+
 <div align="center">
     <img src="https://media.tenor.com/EAfLAcI9t5EAAAAi/kawaii-heart.gif" alt="Divider de corazones y estrellas rosas" width="350">
 </div>
@@ -137,5 +204,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 16 de enero de 2025</i></p>
+    <p>Última modificación:<i> 16 de febrero de 2025</i></p>
 </div>

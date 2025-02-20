@@ -31,29 +31,18 @@
 
 <!ELEMENT alumnos (alumno+)> 
 <!ELEMENT alumno (apellido1, apellido2, nombre_alumno, sexo, estudios)> 
-
 <!ATTLIST alumno id ID #REQUIRED beca (si|no) "no"> 
-
 <!ELEMENT apellido1 (#PCDATA)> 
-
 <!ELEMENT apellido2 (#PCDATA)> 
-
 <!ELEMENT nombre_alumno (#PCDATA)> 
-
 <!ELEMENT sexo (#PCDATA)> 
 
 <!-- Definición de los estudios de los alumnos --> 
 
 <!ELEMENT estudios (carrera_estudios, asignaturas_alumno, proyecto?)> 
-
-<!ELEMENT carrera_estudios  EMPTY> 
-
+<!ELEMENT carrera_estudios EMPTY> 
 <!ATTLIST carrera_estudios codigo IDREF #REQUIRED> 
-
 <!ELEMENT asignaturas_alumno (asignatura_alumno+)> 
-
 <!ELEMENT asignatura_alumno EMPTY> 
-
 <!ATTLIST asignatura_alumno codigo IDREF #REQUIRED> 
-
 <!ELEMENT proyecto (#PCDATA)> 
