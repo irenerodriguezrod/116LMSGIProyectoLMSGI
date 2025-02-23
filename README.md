@@ -111,27 +111,27 @@
       <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/02">Práctica 2. Información de alumnos (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/02">Práctica 2. Información de alumnos (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
       <td>Creación del documento XSL a partir de la información de los archivos XML para convertirlos en un HTML a la hora de ejecutar el XSL</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/03">Práctica 3. Tickets (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/03">Práctica 3. Tickets (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
       <td>Diseño de la plantilla XSL a partir de la información de los XML. También se ha generado un documento .CSS para dar estilos al HTML</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/04">Práctica 4. Test (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/04">Práctica 4. Test (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
       <td>Diseño de la plantilla XSL a partir de la información de los XML, se ha generado a partir del bucle <i>for-each</i>. También se ha generado un documento .CSS para dar estilos al HTML.</td>
     </tr>
         <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/05">Práctica 5. Usuarios (XML, XSL y creación del XML ejecutando el XSL)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/05">Práctica 5. Usuarios (XML, XSL y creación del XML ejecutando el XSL)</a></td>
       <td>Diseño de un documento XSL cuya salida es un XSL</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/06">Práctica 6. Redes (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/16LMSGIProyectoLMSGI/tree/main/unidad5/06">Práctica 6. Redes (XML, XSL y creación del HTML ejecutando el XSL)</a></td>
       <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad5/07">Práctica 7. Predicción del tiempo (XMD, XSL, DTD y creación del HTML ejecutando el XSL. También estilos con CSS)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/07">Práctica 7. Predicción del tiempo (XMD, XSL, DTD y creación del HTML ejecutando el XSL. También estilos con CSS)</a></td>
       <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i>
     </tr>
     <tr>
@@ -173,7 +173,7 @@
       <tr>
         <td>01</td>
         <td>Página de los diferentes volcanes del mundo</td>
-        <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Volcanes del mundo</td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/01">Volcanes del mundo</td>
         <td>30 de octubre de 2024</td>
       </tr>
       <tr>
