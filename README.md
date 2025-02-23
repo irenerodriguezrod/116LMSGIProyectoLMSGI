@@ -49,27 +49,27 @@
     <tr>
       <td rowspan="6">Tema 2. Utilización de los lenguajes de marcas</td>
       <td rowspan="6">Prácticas relacionadas con el uso de lenguajes de marcas</td>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/01">Práctica 1. Web de los volcanes</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/01">Práctica 1. Web de los volcanes</a></td>
       <td>Desarrollo de una web informativa sobre los volcanes del mundo.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/02">Práctica 2. Horario del curso escolar</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/02">Práctica 2. Horario del curso escolar</a></td>
       <td>Creación de una tabla que representa el horario escolar del curso 2024-2025. Contiene el horario principal del curso y los horarios individuales de cada módulo, además del número total de horas que se imparten y los nombres de los profesores.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/02.1">Práctica 2.1. Horario del curso escolar (Modificado el CSS)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/02.1">Práctica 2.1. Horario del curso escolar (Modificado el CSS)</a></td>
       <td>Modificación de los estilos de la práctica. Los horarios se encuentran apilados unos encima de otros y al pasar el cursor por encima se muestran completos.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/03">Práctica 3. Formulario de animales domésticos</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/03">Práctica 3. Formulario de animales domésticos</a></td>
       <td>Diseño de un formulario para registrar datos sobre animales domésticos. En esta práctica se han empleado las etiquetas típicas que contienen los formularios</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/04">Práctica 4. Multimedia sobre animales domésticos</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/04">Práctica 4. Multimedia sobre animales domésticos</a></td>
       <td>Inserción de imágenes, videos y audios relacionados con animales domésticos en diferentes formatos multimedia.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad2/05">Práctica 5. Triángulo de dados</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad2/05">Práctica 5. Triángulo de dados</a></td>
       <td>Creación de una pirámide de daados, al pasar el cursor por encima cambia el color del dado.</td>
     </tr>
     <tr>
@@ -81,27 +81,27 @@
     <tr>
       <td rowspan="6">Tema 4. XML. DTD. Schema XML</td>
       <td rowspan="6">Trabajos sobre XML, DTD y Schema XML</td>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
       <td>Creación de un esquema XML de un correo electrónico.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/02">Práctica 2. Biblioteca(XML,DTD)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/02">Práctica 2. Biblioteca(XML,DTD)</a></td>
       <td>Diseño de un esquema XML y DTD para la gestión de una biblioteca.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/02.2">Práctica 2.02. Biblioteca (XML, XSD, DTD)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/02.2">Práctica 2.02. Biblioteca (XML, XSD, DTD)</a></td>
       <td>Diseño de un esquema XML, DTD y XSD para la gestión de una biblioteca.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/03">Práctica 3. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/03">Práctica 3. Lenguajes de programación (XML, DTD y CSS)</a></td>
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04">Práctica 4. Lenguajes de programación (XML, DTD y CSS)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/04">Práctica 4. Lenguajes de programación (XML, DTD y CSS)</a></td>
       <td>Universidad XML y DTD</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/04.2">Práctica 4.2. Universidad (XML, DTD y CSS)</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad4/04.2">Práctica 4.2. Universidad (XML, DTD y CSS)</a></td>
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
@@ -204,5 +204,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 16 de febrero de 2025</i></p>
+    <p>Última modificación:<i> 23 de febrero de 2025</i></p>
 </div>
