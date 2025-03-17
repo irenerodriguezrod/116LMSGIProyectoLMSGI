@@ -105,8 +105,8 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td rowspan="7">Tema 5. Conversión y adaptación de documentos</td>
-      <td rowspan="7">Trabajos de XPath y XSLT</td>
+      <td rowspan="8">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="8">Trabajos de XPath y XSLT</td>
       <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
       <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
     </tr>
@@ -198,6 +198,12 @@
         <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex2ev-02">Practica 2 de examen</td>
         <td>13 de marzo de 2025</td>
       </tr>
+      <tr>
+        <td>03</td>
+        <td>Abarca las unnidades 2,4 y 5(DTD,XSL,HTML...)</td>
+        <td><a href="#">Un taller de tractores que busca estandarizar el formato XML de sus pedidos para los diferentes fabricantes</td>
+        <td>17 de marzo de 2025</td>
+      </tr>      
     </tbody>
   </table>
 </div>
