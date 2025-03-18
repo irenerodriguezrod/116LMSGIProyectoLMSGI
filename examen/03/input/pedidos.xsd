@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+    Nombre: Irene Rodríguez Rodríguez
+    Fecha de realización: 17/03/2025
+    Fecha de modificación: 17/03/2025
+    Descripción:
+                PREGUNTA 2. XSD 
+                • Se pide escribir el Schema XML(input/pedido.xsd) que valide los pedidos.xml  teniendo  en 
+                cuenta los requisitos indicados. 
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="pedido">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="tractor">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="componente" >
+                            <xs:complexType>
+                                <xs:sequence> 
+                                <xs:element name="fechaEntrega">
+                                 <!--Elemento fechaEntrega con restricciones de tipo y formato  --> 
+                                    <xs:simpleType>
+                                        <xs:restriction base="xs:date"/>
+                                    </xs:simpleType>
+                                </xs:element>
+                                <xs:element name="fragil" type="xs:string"/> 
+                                <xs:element name="peso" type="xs:string"/>
+                                    <xs:sequence>
+                                        <xs:element name="unidad">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:restriction base="xs:string">
+                                                        <xs:pattern value="kg|g"/>
+                                                    </xs:restriction>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                <xs:element name="numeroSerie" type="xs:string"/>
+                                <xs:element name="kmMaximos"  type="xs:string"/>
+                                <xs:element name="cantidad" type="xs:string"/>
+                            </xs:sequence> <!-- end of componente sequence -->
+                            <xs:attribute name="referencia" type="xs:string"/>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:sequence> <!-- end of tractor sequence -->
+                <xs:attribute name="codigoFabricante" type="xs:string"/>
+            </xs:complexType>
+        </xs:element>
+    </xs:sequence> <!-- end of pedido sequence-->
+    <xs:attribute name="idPedido" type="xs:string"/>
+    <xs:attribute name="fecha" type="xs:string"/>
+</xs:complexType>
+</xs:element>
+</xs:schema>
