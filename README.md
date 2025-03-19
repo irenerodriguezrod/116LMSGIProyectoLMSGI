@@ -187,13 +187,13 @@
         <td>16 de diciembre de 2024</td>
       </tr>
       <tr>
-        <td>Ex2ev-01</td>
+        <td>Práctica 1 examen del 2º trimestre</td>
         <td>Práctica 1 para el examen del 2º trimestre</td>
         <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex2ev-01">Practica 1 de examen</td>
         <td>07 de marzo de 2025</td>
       </tr>
       <tr>
-        <td>Ex2ev-02</td>
+        <td>Práctica 2 examen del 2º trimestre</td>
         <td>Práctica 2 para el examen del 2º trimestre</td>
         <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex2ev-02">Practica 2 de examen</td>
         <td>13 de marzo de 2025</td>
@@ -226,5 +226,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 17 de marzo de 2025</i></p>
+    <p>Última modificación:<i> 18 de marzo de 2025</i></p>
 </div>
