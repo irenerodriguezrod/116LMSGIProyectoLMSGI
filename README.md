@@ -105,8 +105,8 @@
       <td>Diseño de un esquema XML, DTD con una hoja de estilos CSS.</td>
     </tr>
     <tr>
-      <td rowspan="7">Tema 5. Conversión y adaptación de documentos</td>
-      <td rowspan="7">Trabajos de XPath y XSLT</td>
+      <td rowspan="8">Tema 5. Conversión y adaptación de documentos</td>
+      <td rowspan="8">Trabajos de XPath y XSLT</td>
       <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/01">Práctica 1. XPath de la Universidad</a></td>
       <td>Creación de un documento MarkDown(MD) con las rutas en XPath de un documento XML</td>
     </tr>
@@ -132,7 +132,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/07">Práctica 7. Predicción del tiempo (XMD, XSL, DTD y creación del HTML ejecutando el XSL. También estilos con CSS)</a></td>
-      <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i>
+      <td>Diseño de la plantilla XSL a partir de la información de los XML, al ejecutarlo, el resultado es un documento de texto .YAML en el que están las redes. Se incluyen los bucles <i>for-each</i> e <i>if</i></td>
+    </tr>
+      <tr>
+      <td><a href="">Lib. Carpeta con plantillas para los XML, XSL...</a></td>
+      <td>Carpeta en las que se incluyen diferentes plantillas. Actualmente la que hay contiene etiquetas meta para que a la hora de usar la plantilla aparezcan por defectos los valores que incluye el archivo</td>
     </tr>
     <tr>
       <td>Tema 6. Almacenamiento de la información</td>
@@ -179,9 +183,27 @@
       <tr>
         <td>02</td>
         <td>Web para los fans de <i>Juego de tronos</i></td>
-        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examenes/02">Los juegos del hambre</td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/02">Los juegos del hambre</td>
         <td>16 de diciembre de 2024</td>
       </tr>
+      <tr>
+        <td>Ex2ev-01</td>
+        <td>Práctica 1 para el examen del 2º trimestre</td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex2ev-01">Practica 1 de examen</td>
+        <td>07 de marzo de 2025</td>
+      </tr>
+      <tr>
+        <td>Ex2ev-02</td>
+        <td>Práctica 2 para el examen del 2º trimestre</td>
+        <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex2ev-02">Practica 2 de examen</td>
+        <td>13 de marzo de 2025</td>
+      </tr>
+      <tr>
+        <td>03</td>
+        <td>Abarca las unnidades 2,4 y 5(DTD,XSL,HTML...)</td>
+        <td><a href="#">Un taller de tractores que busca estandarizar el formato XML de sus pedidos para los diferentes fabricantes</td>
+        <td>17 de marzo de 2025</td>
+      </tr>      
     </tbody>
   </table>
 </div>
@@ -204,5 +226,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 23 de febrero de 2025</i></p>
+    <p>Última modificación:<i> 17 de marzo de 2025</i></p>
 </div>
