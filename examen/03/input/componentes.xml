@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <!DOCTYPE componentes SYSTEM "componentes.dtd"> -->
+<!DOCTYPE componentes SYSTEM "componentes.dtd"> <!-- se vincula con el DTD-->
 <componentes>
     <componente codigo="CMP0000001" nombre="Alternador 14V 33A"/>
     <componente codigo="CMP0000002" nombre="Filtro de aire"/>

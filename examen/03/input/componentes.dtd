@@ -8,13 +8,7 @@
                 teniendo en cuenta las especificaciones dadas. 
 -->
 
-<!ELEMENT componente (#PCDATA)>
-<!ATTLIST componente referencia ID #REQUIRED> <!-- falta agregar restriccion-->
-<!ELEMENT fechaEntrega (año, mes, dia?)?>
-<!ELEMENT fragil (#PCDATA)> <!--Indicador fragilidad -->
-<!ELEMENT peso (kg|g)>
-<!ATTLIST peso unidad CDATA #FIXED "kg">
-<!ELEMENT numeroSerie (#PCDATA)> <!-- es una cadena, falta restriccion-->
-<!ELEMENT kmMaximos (#PCDATA)> <!-- kms antes de sustituir-->
-<!ELEMENT cantidad (#PCDATA)>
-<!ATTLIST cantidad attribute-name CDATA #FIXED "1"> 
+<!ELEMENT componentes (componente+)>
+<!ELEMENT componente EMPTY>
+<!ATTLIST componente codigo ID #REQUIRED>
+<!ATTLIST componente nombre CDATA #REQUIRED>
