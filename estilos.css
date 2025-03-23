@@ -27,6 +27,7 @@ header h1 {
 }
 
 nav {
+    top: 0; /* si no se pone esto, no funciona el sticky */
     display: flex;
     justify-content: center;
     background-color: var(--color2);
@@ -35,7 +36,7 @@ nav {
     margin-left: auto;
     margin-right: auto;
     z-index: 1000;
-    padding: 1em;
+    padding: 1em 1em;
 }
 
 nav ul {
@@ -78,6 +79,7 @@ h2 {
 
 section {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
