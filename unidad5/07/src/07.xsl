@@ -15,7 +15,7 @@
              expand-text="yes"
              version="3.0">
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="html" indent="yes"/>
     <xsl:include href="../../lib/libhtml.xsl"/>
     
     <xsl:template match="/prediccion"  mode="#all">
@@ -26,6 +26,7 @@
                     <!-- Si no se ponen comillas simples en el select, el texto da error -->
                     <xsl:with-param name="titulo" select="'07 XSLT - Irene Rodríguez'"/>
                 </xsl:call-template>
+                <link href="estilos/estilos.css" rel="stylesheet" type="text/css"/>
             </head>
             <body>
                 <h1>Predicción por municipio</h1>
