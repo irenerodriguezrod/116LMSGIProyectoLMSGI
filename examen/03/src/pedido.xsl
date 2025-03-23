@@ -40,14 +40,6 @@
         </xsl:choose> de <xsl:value-of select="$anio"/>
     </xsl:template>
     
-    <!-- Dado un codigo de fabricante, te dice el fabricante -->
-    <xsl:template match="pedido/@codigoFabricante" name="fabricante">
-        <xsl:choose>
-            <xsl:when test="F001">John Deere</xsl:when>
-            <xsl:when test="F012">Lamborghini</xsl:when>
-        </xsl:choose>
-    </xsl:template>
-    
     <!-- Plantilla que dado un pedido lo escribe en una tabla -->
     <xsl:template match="/pedido" mode="#all">
         <html>
@@ -60,7 +52,7 @@
             <body>
                 <header>
                     <h1>
-                        <p>Pedido ID: <xsl:value-of select="idPedido"/></p> <!-- se selecciona el ID -->
+                        <p>Pedido ID: <xsl:value-of select="@idPedido"/></p> <!-- se selecciona el ID -->
                     </h1>
                 </header>
                 <main>
@@ -69,12 +61,12 @@
 
 
                     <div id="cajaPrincipal"> <!-- dentro esta el nom fabricante y la tabla -->
-                        <h2><img src="fabricante"/>Fabricante: <xsl:value-of select="tractor/@codigoFabricante"/><xsl:value-of select="fabricante"/></h2>
+                        <h2><img src="images{@codigoFabricante}.png"/>Fabricante: <xsl:value-of select="tractor/@codigoFabricante"/><xsl:value-of select="fabricante"/></h2>
                         <table>
-                            <thead class="tHead">
+                            <thead>
                                 <tr>
                                     <th><!-- imagen del componente -->
-                                        <img src="{images[/componente/@referencia]}"/>
+                                        <img src="images/{@referencia}.png"/>
                                     </th>
                                     <th>Referencia</th>
                                     <th>Descripción</th>
