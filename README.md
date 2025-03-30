@@ -183,6 +183,9 @@
 				<td>
 					-
 				</td>
+				<td>
+					-
+				</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -410,7 +413,7 @@
 	<h2>
 		<img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif"
 		alt="Signo exclamación e interrogación" width="20">
-		Otros contenidos
+		Exámenes y prácticas de examen
 	</h2>
 	<p>
 		Aquí están otros contenidos relacionados con el repositorio, pero que
@@ -511,6 +514,122 @@
 				</td>
 				<td>
 					18 de marzo de 2025
+				</td>
+				<td>❌</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<br>
+
+<div>
+	<h2>
+		<img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif"
+		alt="Signo exclamación e interrogación" width="20">
+		Otros contenidos
+	</h2>
+	<p>
+		Aquí están otros contenidos relacionados con el repositorio, pero que
+		no están incluidos en este repositorio.
+		Se incluye el estado en el que se encuentran las prácticas:
+		<li>✅ - Completada</li>
+		<li>❌ - Sin comenzar</li>
+		<li>❓ - Falta terminar</li>
+	</p>
+	<table>
+		<thead>
+			<tr>
+				<th>
+					Unidad
+				</th>
+				<th>
+					Practica
+				</th>
+				<th>
+					Carpeta
+				</th>
+				<th>
+					Estado (✅, ❌,❓)
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 1
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/01">
+					Acceso y modificación de elementos del DOM
+				</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 2
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/02">
+						Acceso y modificación
+				</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 3
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/03">
+						Acceso a elementos
+				</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 4
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/04">
+						Acceso a elementos y modificación de elementos del DOM
+				</td>
+				<td>❌</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 5
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/05">
+						Manipulación del DOM
+				</td>
+				<td>❌</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 6
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/06">
+						Manipulación del DOM (cambiar imágenes)
 				</td>
 				<td>❌</td>
 			</tr>
