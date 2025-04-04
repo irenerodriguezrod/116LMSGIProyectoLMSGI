@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="../src/05.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="../src/05.xsl"?> Esta linea se comenta para que no de fallo-->
 <root>
 <row Anyo="2012" Concepto="Usuarios registrados " Usuarios_registrados="53577"></row>
 <row Anyo="2012" Concepto="Préstamos " Usuarios_registrados="315402"></row>
