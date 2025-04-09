@@ -29,7 +29,7 @@ function cambiarColor() {
 }
 
 // funcion cambiar parrafos
-function cambiarParrafos() {
+/*function cambiarParrafos() {
     let parrafos = document.querySelectorAll(".parrafo");
 
     parrafos.forEach((p) => {// la p es la abreviatura de párrafo, lo que hace es que por cada parrafo aplica unos estilos; depende del bucle if
@@ -48,4 +48,22 @@ function cambiarParrafos() {
             p.style.transform = "rotate(1deg)"; // Aplica una ligera rotación
         }
     });
-}
+}*/
+
+//función cambiar párrafos, optimizado.
+/*function cambiarParrafos(){
+    let parrafos = document.getElementsByTagName("p");
+    let boton3 = document.getElementById("boton3");
+    
+    for (let i = 0; i < parrafos.length; i++){
+        parrafos[i].classList.toggle("estilo-modificado");
+    }
+
+    boton3.value = boton3.value === 
+    /*estilos agregados en el css para cuando se activa esto del js
+    .estilo-modificado{
+        font-weight: bold;
+        font-size: 20px;
+        letter-spacing: 2px
+    }
+}*/
