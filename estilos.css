@@ -10,20 +10,20 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;    /* xa q el padding no afecte al tamaño de los elementos*/
+    box-sizing: border-box; /* Para que el padding no afecte al tamaño de los elementos */
 }
 
 header {
     background-color: var(--color2);
     padding: 20px;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: var(--color5);
-    width: 100%;    /* xa q ocupe todo el ancho */
+    width: 100%; /* Para que ocupe todo el ancho */
 }
 
-header h1 {
-    margin: 10px;    /* margen */
+header h2 {
+    margin: 0; /* Eliminar margen */
 }
 
 nav {
@@ -31,16 +31,16 @@ nav {
     justify-content: center;
     background-color: var(--color2);
     position: sticky;
-    margin-top: 0;    /*margen superior*/
+    top: 0;
     margin-left: auto;
     margin-right: auto;
     z-index: 1000;
-    padding: 1em;
+    padding: 10px;
 }
 
 nav ul {
-    list-style-type: none;    /* lista sin viñetas */
-    display: flex;   /* lista en linea */
+    list-style-type: none; /* Lista sin viñetas */
+    display: flex; /* Lista en línea */
     margin: 0;
     padding: 0;
 }
@@ -54,14 +54,16 @@ nav ul li a {
     color: var(--color5);
     text-decoration: none;
     font-size: 1rem;
-    padding: 10px 15px;    /* espaciado interno */
-    border-radius: 5px;    /* redondear esquinas */
-    transition: all 0.3s ease;    /* animacion suave */
+    padding: 10px 15px; /* Espaciado interno */
+    border-radius: 5px; /* Redondear esquinas */
+    transition: all 0.3s ease; /* Animación suave */
+    outline: none; /* Elimina el borde azul */
 }
 
 nav ul li a:hover {
-    color: var(--color4);    /* cambia de color a rosa claro */
-    text-decoration: underline;
+    color: var(--color4); /* Color cuando el cursor está encima */
+    text-decoration: none; /* Sin subrayado */
+    outline: none; /* Elimina el borde azul */
 }
 
 body {
@@ -73,25 +75,25 @@ body {
 }
 
 h2 {
-    margin: 0;    /* elimina el margen */
+    margin: 0; /* Eliminar margen */
 }
 
 section {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column; /* Organiza los elementos en columna */
     justify-content: center;
     align-items: center;
     margin-top: 20px;
 }
 
-/* clase especifica */
+/* Clase específica */
 .fondoArticulo {
     background-color: var(--color6);
     padding: 20px;
     border-radius: 10px;
     margin: 20px auto;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);    /* sombreado */
-    width: 90%;    /* ancho ocupando determinado porcentaje */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombrado */
+    width: 90%; /* Ancho */
 }
 
 article {
@@ -106,69 +108,44 @@ article {
     text-align: center;
 }
 
+section div a {
+    text-decoration: none; /* Eliminar subrayado en el link */
+}
+
 article a {
     color: var(--color5);
-    text-decoration: none;
+    text-decoration: none; /* Sin subrayado */
     font-weight: bold;
-    margin-left: auto;
+    outline: none; /* Elimina el borde azul */
 }
 
 article:hover {
     background-color: var(--color2);
-    text-decoration: underline;
-    color: var(--color3);
-    transform: scale(1.05);    /* zoom al pasar por encima*/
-}
-
-h3 {
-    color: var(--color5);
-    font-weight: bold;
-    text-align: center;
-
+    text-decoration: none; /* Sin subrayado */
+    color: #ffffff; /* Color blanco */
+    transform: scale(1.05); /* Zoom al pasar por encima */
 }
 
 footer {
-    display: flex;  /* flexbox para organizar los elementos */
-    justify-content: space-between;    /* separar los elementos principales */
-    align-items: center;    /* centrar verticalmente */
-    background-color: var(--color2);    /* color fondo del footer */
-    padding: 10px;    /* espaciado interno */
-    color: var(--color5);    /* color del texto */
-    font-size: 1rem;    /* tamaño del texto */
-    margin-top: 10px;    /* margen superior */
-    padding-left: 30em;    /* margen izquierdo */
-    padding-right: 10em;    /* margen derecho */
+    background-color: var(--color2);
+    padding: 10px;
+    text-align: center;
+    color: var(--color5);
+    font-size: 1rem;
+    margin-top: 10px; /* Espaciado para separar el contenido */
 }
 
 footer a {
-    color: var(--color5);    /* color del enlace */
-    text-decoration: none;    /* eliminar subrayado */
-    font-weight: bold;    /* modificar texto a negrita */
+    color: var(--color5);
+    text-decoration: none;
+    font-weight: bold;
 }
 
 footer a:hover {
-    color: var(--color4);    /* cambiar color al pasar el mouse */
+    color: var(--color4);
 }
 
-#validador-w3c {
-    display: flex;    /* organizar elementos */
-    align-items: center;    /* centrar la imagen */
-    margin-right: auto;    /* alinear a la izquierda */
-    gap: 3px;    /* reducir el espacio entre la imagen y el contenido cercano */
+footer i {
+    font-size: 24px; /* Tamaño más grande del ícono */
 }
 
-#validador-w3c img {
-    display: block;    /* asegura que no tenga espacios adicionales */
-    margin: 0;    /* borrar márgenes */
-    width: 88px;    /* tamaño imagen */
-    height: auto;    /* mantener proporciones fijas para evitar distorsionar la imagen*/
-}
-
-footer div {
-    text-align: left;    /* texto a la izq */
-}
-
-footer p {
-    margin: 10px;    /* añadir márgenes al texto */
-    line-height: 1.5;    /* espaciado entre lineas */
-}
