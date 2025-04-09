@@ -171,21 +171,32 @@
 				<td>✅</td>
 			</tr>
 			<tr>
-				<td>
+				<td rowspan="2">
 					Tema 3. Manipulación de documentos web
 				</td>
-				<td>
-					-
+				<td rowspan="2">
+					Manipulación de documentos web (JavaScript)
 				</td>
 				<td>
-					-
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad3/01">
+						Práctica 1. Acceso y modificación de elementos del DOM
+					</a>
 				</td>
 				<td>
-					-
+					Script que modifica el contenido de un HTML
+				</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad3/02">
+						Práctica 2. Añadir elementos al DOM(tabla que genera filas y columnas)
+					</a>
 				</td>
 				<td>
-					-
+					Generador de una tabla a partir de 2 input numéricos los cuales solicitan un número de filas y columnas
 				</td>
+				<td>✅</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -605,7 +616,7 @@
 					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/04">
 						Acceso a elementos y modificación de elementos del DOM
 				</td>
-				<td>❌</td>
+				<td>✅</td>
 			</tr>
 			<tr>
 				<td>
@@ -618,7 +629,7 @@
 					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/05">
 						Manipulación del DOM
 				</td>
-				<td>❌</td>
+				<td>✅</td>
 			</tr>
 			<tr>
 				<td>
@@ -631,7 +642,33 @@
 					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/06">
 						Manipulación del DOM (cambiar imágenes)
 				</td>
-				<td>❌</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 7
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/07">
+						Manipulación del DOM
+				</td>
+				<td>✅</td>
+			</tr>
+			<tr>
+				<td>
+					03
+				</td>
+				<td>
+					Ejemplo 8
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIUnidad3/tree/ramaIrene/08">
+						Añadir elementos al DOM
+				</td>
+				<td>✅</td>
 			</tr>
 		</tbody>
 	</table>
@@ -660,7 +697,7 @@
 	<p>
 		Última modificación:
 		<i>
-			23 de marzo de 2025
+			09 de abril de 2025
 		</i>
 	</p>
 </div>
