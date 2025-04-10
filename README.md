@@ -68,6 +68,7 @@
 				<th>
 					Estado (✅, ❌,❓)
 				</th>
+				<th>Última revisión</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -88,6 +89,7 @@
 					de marcas que existen.
 				</td>
 				<td>✅</td>
+				<td>21/01/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -105,6 +107,7 @@
 					Desarrollo de una web informativa sobre los volcanes del mundo.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -119,6 +122,7 @@
 					de los profesores.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -132,6 +136,7 @@
 					completos.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -145,6 +150,7 @@
 					formularios
 				</td>
 				<td>✅</td>
+				<td>06/02/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -157,6 +163,7 @@
 					en diferentes formatos multimedia.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -169,6 +176,7 @@
 					el color del dado.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="2">
@@ -186,6 +194,7 @@
 					Script que modifica el contenido de un HTML
 				</td>
 				<td>✅</td>
+				<td>07/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -197,6 +206,7 @@
 					Generador de una tabla a partir de 2 input numéricos los cuales solicitan un número de filas y columnas
 				</td>
 				<td>✅</td>
+				<td>09/04/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -214,6 +224,7 @@
 					Creación de un esquema XML de un correo electrónico.
 				</td>
 				<td>✅</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td>
@@ -225,6 +236,7 @@
 					Diseño de un esquema XML y DTD para la gestión de una biblioteca.
 				</td>
 				<td>✅</td>
+				<td></td>
 			</tr>
 			<tr>
 				<td>
@@ -236,6 +248,7 @@
 					Diseño de un esquema XML, DTD y XSD para la gestión de una biblioteca.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -247,6 +260,7 @@
 					Diseño de un esquema XML, DTD con una hoja de estilos CSS.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -258,6 +272,7 @@
 					Universidad XML y DTD
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -269,6 +284,7 @@
 					Diseño de un esquema XML, DTD con una hoja de estilos CSS.
 				</td>
 				<td>✅</td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="8">
@@ -287,6 +303,7 @@
 					XML
 				</td>
 				<td>✅</td>
+				<td>21/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -300,6 +317,7 @@
 					XML para convertirlos en un HTML a la hora de ejecutar el XSL
 				</td>
 				<td>✅</td>
+				<td>12/02/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -312,6 +330,7 @@
 					se ha generado un documento .CSS para dar estilos al HTML
 				</td>
 				<td>✅</td>
+				<td>16/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -328,6 +347,7 @@
 					. También se ha generado un documento .CSS para dar estilos al HTML.
 				</td>
 				<td>✅</td>
+				<td>17/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -339,6 +359,7 @@
 					Diseño de un documento XSL cuya salida es un XSL
 				</td>
 				<td>✅</td>
+				<td>04/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -357,7 +378,8 @@
 					<i>
 						if
 					</i>
-			<td>✅</td>
+				<td>✅</td>
+				<td>20/02/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -372,6 +394,7 @@
 					Se incluyen los bucles<i>for-each</i>e<i>if</i>
 				</td>
 				<td>❓</td>
+				<td>09/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -385,6 +408,7 @@
 					por defectos los valores que incluye el archivo
 				</td>
 				<td>❓</td>
+				<td>16/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -399,6 +423,8 @@
 				<td>
 					-
 				</td>
+				<td>-</td>
+				<td>-</td>
 			</tr>
 			<tr>
 				<td>
@@ -413,6 +439,8 @@
 				<td>
 					-
 				</td>
+				<td>-</td>
+				<td>-</td>
 			</tr>
 		</tbody>
 	</table>
@@ -448,6 +476,9 @@
 				<th>
 					Estado (✅, ❌,❓)
 				</th>
+				<th>
+					Fecha de última revisión
+				</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -466,6 +497,7 @@
 					30 de octubre de 2024
 				</td>
 				<td>✅</td>
+				<td>16/03/2025</td>
 			</tr>
 			<tr>
 				<td>02</td>
@@ -478,6 +510,7 @@
 					16 de diciembre de 2024
 				</td>
 				<td>✅</td>
+				<td>23/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -494,6 +527,7 @@
 					07 de marzo de 2025
 				</td>
 				<td>✅</td>
+				<td>16/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -510,6 +544,7 @@
 					13 de marzo de 2025
 				</td>
 				<td>✅</td>
+				<td>16/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -527,6 +562,7 @@
 					18 de marzo de 2025
 				</td>
 				<td>❌</td>
+				<td>18/03/2025</td>
 			</tr>
 		</tbody>
 	</table>
@@ -563,6 +599,7 @@
 				<th>
 					Estado (✅, ❌,❓)
 				</th>
+				<th>Última revisión</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -578,6 +615,7 @@
 					Acceso y modificación de elementos del DOM
 				</td>
 				<td>✅</td>
+				<td>31/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -591,6 +629,7 @@
 						Acceso y modificación
 				</td>
 				<td>✅</td>
+				<td>29/03/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -604,6 +643,7 @@
 						Acceso a elementos
 				</td>
 				<td>✅</td>
+				<td>07/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -617,6 +657,7 @@
 						Acceso a elementos y modificación de elementos del DOM
 				</td>
 				<td>✅</td>
+				<td>31/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -630,6 +671,7 @@
 						Manipulación del DOM
 				</td>
 				<td>✅</td>
+				<td>07/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -643,6 +685,7 @@
 						Manipulación del DOM (cambiar imágenes)
 				</td>
 				<td>✅</td>
+				<td>07/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -656,6 +699,7 @@
 						Manipulación del DOM
 				</td>
 				<td>✅</td>
+				<td>07/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -669,6 +713,7 @@
 						Añadir elementos al DOM
 				</td>
 				<td>✅</td>
+				<td>09/04/2025</td>
 			</tr>
 		</tbody>
 	</table>
@@ -697,7 +742,7 @@
 	<p>
 		Última modificación:
 		<i>
-			09 de abril de 2025
+			10 de abril de 2025
 		</i>
 	</p>
 </div>
