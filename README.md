@@ -224,7 +224,7 @@
 					Creación de un esquema XML de un correo electrónico.
 				</td>
 				<td>✅</td>
-				<td></td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -236,7 +236,7 @@
 					Diseño de un esquema XML y DTD para la gestión de una biblioteca.
 				</td>
 				<td>✅</td>
-				<td></td>
+				<td>16/01/2025</td>
 			</tr>
 			<tr>
 				<td>
