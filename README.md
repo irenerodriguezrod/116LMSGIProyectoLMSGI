@@ -405,8 +405,8 @@
 					el resultado es un documento de texto .YAML en el que están las redes.
 					Se incluyen los bucles<i>for-each</i>e<i>if</i>
 				</td>
-				<td>❓</td>
-				<td>09/04/2025</td>
+				<td>✅</td>
+				<td>27/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -419,8 +419,8 @@
 					hay contiene etiquetas meta para que a la hora de usar la plantilla aparezcan
 					por defectos los valores que incluye el archivo
 				</td>
-				<td>❓</td>
-				<td>16/03/2025</td>
+				<td>✅</td>
+				<td>27/04/2025</td>
 			</tr>
 			<tr>
 				<td>
