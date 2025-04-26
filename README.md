@@ -179,10 +179,10 @@
 				<td>16/01/2025</td>
 			</tr>
 			<tr>
-				<td rowspan="2">
+				<td rowspan="3">
 					Tema 3. Manipulación de documentos web
 				</td>
-				<td rowspan="2">
+				<td rowspan="3">
 					Manipulación de documentos web (JavaScript)
 				</td>
 				<td>
@@ -206,7 +206,19 @@
 					Generador de una tabla a partir de 2 input numéricos los cuales solicitan un número de filas y columnas
 				</td>
 				<td>✅</td>
-				<td>09/04/2025</td>
+				<td>27/04/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="#">
+						Práctica 3. DOM: Tablero de imágenes 
+					</a>
+				</td>
+				<td>
+					Tablero en el que al hacer <i>click</i> sobre uno de los cuadrados del tablero, se genera unan imágen aleatoria
+				</td>
+				<td>❓</td>
+				<td>27/04/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -742,7 +754,7 @@
 	<p>
 		Última modificación:
 		<i>
-			10 de abril de 2025
+			27 de abril de 2025
 		</i>
 	</p>
 </div>
