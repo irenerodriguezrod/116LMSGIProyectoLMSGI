@@ -210,7 +210,7 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="#">
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad3/03">
 						Práctica 3. DOM: Tablero de imágenes 
 					</a>
 				</td>
@@ -218,7 +218,7 @@
 					Tablero en el que al hacer <i>click</i> sobre uno de los cuadrados del tablero, se genera unan imágen aleatoria
 				</td>
 				<td>❓</td>
-				<td>27/04/2025</td>
+				<td>28/04/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -754,7 +754,7 @@
 	<p>
 		Última modificación:
 		<i>
-			27 de abril de 2025
+			28 de abril de 2025
 		</i>
 	</p>
 </div>
