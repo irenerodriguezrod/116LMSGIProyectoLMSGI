@@ -35,10 +35,46 @@ for (let i = 0; i < 6; i++) {
     tablero.appendChild(casilla);
 
     // Evento click para cada casilla
-    casilla.addEventListener("click", function() {
+    casilla.addEventListener("click", function () {
         if (casilla.innerHTML === "") { // Solo si está vacía
             const numero = Math.floor(Math.random() * imagenes.length);
             casilla.innerHTML = `<img src="${imagenes[numero]}">`; // AÑADIMOS imagen
         }
     });
+
+    // Evento: al pasar el ratón por encima, si la casilla está vacía cambia el color. Este efecto está comentado en el .CSS
+    casilla.addEventListener("mouseenter", () => {
+        if (casilla.innerHTML === "") {
+            casilla.style.backgroundColor = "rgb(182, 215, 132)";
+        }
+    });
+
+    casilla.addEventListener("mouseleave", () => {
+        if (casilla.innerHTML === "") {
+            casilla.style.backgroundColor = "";
+        }
+    });
+
 }
+
+// Evento: botón que vacía el tablero
+document.getElementById("vaciarTablero").addEventListener("click", () => {
+    const casillas = document.querySelectorAll(".casilla");
+    
+    casillas.forEach(casilla => {
+        casilla.innerHTML = "";
+        casilla.style.backgroundColor = ""; // Restaurar color también
+    });
+});
+
+// Evento: rellenar todas las casillas
+document.getElementById("rellenarTablero").addEventListener("click", () => {
+    const casillas = document.querySelectorAll(".casilla");
+
+    casillas.forEach(casilla => {
+        if (casilla.innerHTML === "") {
+            const numero = Math.floor(Math.random() * imagenes.length);
+            casilla.innerHTML = `<img src="${imagenes[numero]}">`;
+        }
+    });
+});
