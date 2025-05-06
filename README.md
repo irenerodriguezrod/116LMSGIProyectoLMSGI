@@ -423,10 +423,10 @@
 				<td>27/04/2025</td>
 			</tr>
 			<tr>
-				<td>
+				<td rowspan="2">
 					Tema 6. Almacenamiento de la información
 				</td>
-				<td>
+				<td rowspan="2">
 					Archivos JSON
 				</td>
 				<td>
