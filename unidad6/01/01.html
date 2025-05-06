@@ -48,7 +48,7 @@
                 p = document.getElementById('parrafo');
                 p.innerHTML = `<span>Nombre: </span>${jsonData.nombre} <span>Edad:</span> ${jsonData.edad}` //primero aparece el nombre en negrita (span) y después el valor(se toma del .json)
             })
-            .catch(error => console.log(error));
+            .catch(error => console.log(error)); //captura los errores que haya
     </script>
 </body>
 </html>
