@@ -423,10 +423,10 @@
 				<td>27/04/2025</td>
 			</tr>
 			<tr>
-				<td rowspan="2">
+				<td rowspan="3">
 					Tema 6. Almacenamiento de la información
 				</td>
-				<td rowspan="2">
+				<td rowspan="3">
 					Archivos JSON
 				</td>
 				<td>
@@ -442,15 +442,27 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad5/02">
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/02">
 						Práctica 2. Carga de un documento JSON utilizando JS (API fetch)
 					</a>
 				</td>
 				<td>
 					Desarrollo una página web que carge y muestre información desde un archivo JSON utilizando JavaScript: API fetch(). 
 				</td>
-				<td>❌</td>
+				<td>✅</td>
 				<td>07/05/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/03">
+						Práctica 3. Consultas XQuery
+					</a>
+				</td>
+				<td>
+					Consultas de XQuery. Se ha utilizado BaseX para la realización de las mismas  
+				</td>
+				<td>✅</td>
+				<td>19/05/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -768,7 +780,7 @@
 	<p>
 		Última modificación:
 		<i>
-			07 de mayo de 2025
+			19 de mayo de 2025
 		</i>
 	</p>
 </div>
