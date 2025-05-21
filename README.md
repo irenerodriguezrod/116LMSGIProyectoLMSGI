@@ -423,10 +423,10 @@
 				<td>27/04/2025</td>
 			</tr>
 			<tr>
-				<td rowspan="3">
+				<td rowspan="4">
 					Tema 6. Almacenamiento de la información
 				</td>
-				<td rowspan="3">
+				<td rowspan="4">
 					Archivos JSON
 				</td>
 				<td>
@@ -461,8 +461,20 @@
 				<td>
 					Consultas de XQuery. Se ha utilizado BaseX para la realización de las mismas  
 				</td>
-				<td>✅</td>
+				<td>❓</td>
 				<td>19/05/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/04">
+						Práctica 4. Consultas XQuery (con más de 1 base de datos)
+					</a>
+				</td>
+				<td>
+					Consultas de XQuery. Se ha utilizado BaseX para la realización de las mismas  
+				</td>
+				<td>❓</td>
+				<td>21/05/2025</td>
 			</tr>
 			<tr>
 				<td>
