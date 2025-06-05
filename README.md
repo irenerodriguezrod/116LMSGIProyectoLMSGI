@@ -467,11 +467,11 @@
 			<tr>
 				<td>
 					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/04">
-						Práctica 4. Consultas XQuery (con más de 1 base de datos)
+						Práctica 4. Consultas XQuery (con más de 1 base de datos) | Colecciones y updates
 					</a>
 				</td>
 				<td>
-					Consultas de XQuery. Se ha utilizado BaseX para la realización de las mismas  
+					Consultas de XQuery - Colecciones y updates. Se ha utilizado BaseX para la realización de las mismas.
 				</td>
 				<td>❓</td>
 				<td>21/05/2025</td>
