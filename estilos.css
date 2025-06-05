@@ -5,6 +5,11 @@
     --color4: #FF99C2;
     --color5: #FDF4E3;
     --color6: #b04d98;
+    --color7: #343A40;
+    --color8: #d8d9d9;
+    --color9: #94869a; 
+    --color10: #634b63;
+    --color11: #a055a0;
 }
 
 * {
@@ -14,7 +19,7 @@
 }
 
 header {
-    background-color: var(--color2);
+    background-color: var(--color7);
     padding: 20px;
     text-align: center;
     font-size: 1.5rem;
@@ -29,7 +34,7 @@ header h2 {
 nav {
     display: flex;
     justify-content: center;
-    background-color: var(--color2);
+    background-color: var(--color7);
     position: sticky;
     top: 0;
     margin-left: auto;
@@ -67,7 +72,7 @@ nav ul li a:hover {
 }
 
 body {
-    background-color: var(--color1);
+    background-color: var(--color8);
     font-family: Arial, sans-serif;
     color: var(--color5);
     line-height: 1.6;
@@ -88,7 +93,7 @@ section {
 
 /* Clase específica */
 .fondoArticulo {
-    background-color: var(--color6);
+    background-color: var(--color9);
     padding: 20px;
     border-radius: 10px;
     margin: 20px auto;
@@ -100,7 +105,7 @@ article {
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
-    background-color: var(--color4);
+    background-color: var(--color10);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     width: 30em;
     color: var(--color5);
@@ -120,14 +125,14 @@ article a {
 }
 
 article:hover {
-    background-color: var(--color2);
+    background-color: var(--color11);
     text-decoration: none; /* Sin subrayado */
     color: #ffffff; /* Color blanco */
     transform: scale(1.05); /* Zoom al pasar por encima */
 }
 
 footer {
-    background-color: var(--color2);
+    background-color: var(--color7);
     padding: 10px;
     text-align: center;
     color: var(--color5);
