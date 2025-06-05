@@ -179,10 +179,10 @@
 				<td>16/01/2025</td>
 			</tr>
 			<tr>
-				<td rowspan="2">
+				<td rowspan="3">
 					Tema 3. Manipulación de documentos web
 				</td>
-				<td rowspan="2">
+				<td rowspan="3">
 					Manipulación de documentos web (JavaScript)
 				</td>
 				<td>
@@ -206,7 +206,19 @@
 					Generador de una tabla a partir de 2 input numéricos los cuales solicitan un número de filas y columnas
 				</td>
 				<td>✅</td>
-				<td>09/04/2025</td>
+				<td>27/04/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad3/03">
+						Práctica 3. DOM: Tablero de imágenes 
+					</a>
+				</td>
+				<td>
+					Tablero en el que al hacer <i>click</i> sobre uno de los cuadrados del tablero, se genera unan imágen aleatoria. Contiene también otras mejoras agregadas posteriormente 
+				</td>
+				<td>✅</td>
+				<td>07/05/2025</td>
 			</tr>
 			<tr>
 				<td rowspan="6">
@@ -393,8 +405,8 @@
 					el resultado es un documento de texto .YAML en el que están las redes.
 					Se incluyen los bucles<i>for-each</i>e<i>if</i>
 				</td>
-				<td>❓</td>
-				<td>09/04/2025</td>
+				<td>✅</td>
+				<td>27/04/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -407,24 +419,62 @@
 					hay contiene etiquetas meta para que a la hora de usar la plantilla aparezcan
 					por defectos los valores que incluye el archivo
 				</td>
-				<td>❓</td>
-				<td>16/03/2025</td>
+				<td>✅</td>
+				<td>27/04/2025</td>
+			</tr>
+			<tr>
+				<td rowspan="4">
+					Tema 6. Almacenamiento de la información
+				</td>
+				<td rowspan="4">
+					Archivos JSON
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/01">
+						Práctica 1. Carga de un documento JSON para visualizar datos de una persona
+					</a>
+				</td>
+				<td>
+					Creación de un HTML que carga un documento JSON para cargar datos de una persona
+				</td>
+				<td>✅</td>
+				<td>07/05/2025</td>
 			</tr>
 			<tr>
 				<td>
-					Tema 6. Almacenamiento de la información
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/02">
+						Práctica 2. Carga de un documento JSON utilizando JS (API fetch)
+					</a>
 				</td>
 				<td>
-					-
+					Desarrollo una página web que carge y muestre información desde un archivo JSON utilizando JavaScript: API fetch(). 
+				</td>
+				<td>✅</td>
+				<td>07/05/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/03">
+						Práctica 3. Consultas XQuery
+					</a>
 				</td>
 				<td>
-					-
+					Consultas de XQuery. Se ha utilizado BaseX para la realización de las mismas  
+				</td>
+				<td>❓</td>
+				<td>19/05/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/04">
+						Práctica 4. Consultas XQuery (con más de 1 base de datos) | Colecciones y updates
+					</a>
 				</td>
 				<td>
-					-
+					Consultas de XQuery - Colecciones y updates. Se ha utilizado BaseX para la realización de las mismas.
 				</td>
-				<td>-</td>
-				<td>-</td>
+				<td>❓</td>
+				<td>21/05/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -742,7 +792,7 @@
 	<p>
 		Última modificación:
 		<i>
-			10 de abril de 2025
+			19 de mayo de 2025
 		</i>
 	</p>
 </div>
