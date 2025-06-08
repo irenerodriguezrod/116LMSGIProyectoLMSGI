@@ -8,3 +8,29 @@
     padding:0px;
     box-sizing: border-box;
 }
+
+table {
+    width: 90%;
+    margin: 10px auto; /* Separacion al rededor de  la tabla */
+    border-color: #134678;
+    border-collapse: separate;
+}
+
+th {
+    background-color: #2980b9;
+    color: white;
+}
+
+td {
+    background-color: #ecf0f1;
+    color: #2980b9;
+    text-align: center;
+}
+
+td i { /* Abreviatura nombre profesores en las tablas */
+    color: black;
+}
+
+table td:hover { 
+    background-color: #d5dbdb;
+}
