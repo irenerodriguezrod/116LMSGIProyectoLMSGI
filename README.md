@@ -423,10 +423,10 @@
 				<td>27/04/2025</td>
 			</tr>
 			<tr>
-				<td rowspan="4">
+				<td rowspan="5">
 					Tema 6. Almacenamiento de la información
 				</td>
-				<td rowspan="4">
+				<td rowspan="5">
 					Archivos JSON
 				</td>
 				<td>
@@ -475,6 +475,18 @@
 				</td>
 				<td>❓</td>
 				<td>21/05/2025</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/unidad6/04">
+						Práctica 5. Consultas XQuery (con más de 1 base de datos) | Colecciones y updates
+					</a>
+				</td>
+				<td>
+					Consultas de XQuery - Colecciones y updates. Se ha utilizado BaseX para la realización de las mismas.
+				</td>
+				<td>❓</td>
+				<td>30/06/2025</td>
 			</tr>
 			<tr>
 				<td>
@@ -611,8 +623,26 @@
 				<td>
 					18 de marzo de 2025
 				</td>
-				<td>❌</td>
+				<td>❓</td>
 				<td>18/03/2025</td>
+			</tr>
+			<tr>
+				<td>
+					Práctica 1 de examen
+					(3º trimestre)
+				</td>
+				<td>
+					Distribuciones de software
+				</td>
+				<td>
+					<a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI/tree/main/examen/Ex3ev-03">
+						Práctica de examen
+				</td>
+				<td>
+					06 de junio de 2025
+				</td>
+				<td>✅</td>
+				<td>08/06/2025</td>
 			</tr>
 		</tbody>
 	</table>
@@ -792,7 +822,7 @@
 	<p>
 		Última modificación:
 		<i>
-			19 de mayo de 2025
+			09 de junio de 2025
 		</i>
 	</p>
 </div>
